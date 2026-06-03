@@ -7,4 +7,4 @@ $bison -d parser.y
 
 $flex lekser.l
 
-&gcc parser.tab.h lex.yy.c
+$gcc parser.tab.h lex.yy.c
