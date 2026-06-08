@@ -1,7 +1,8 @@
-# Lexer-i-parser
-Lekser i parser w technologii Flex i Bison.
+# Fractures-Lexer-and-Parser
+Lexer in Flex and parser in Bison for oprations on fractures.
+Supports addition, substraction, multiplication, divisions and parentheses.
 
-W celu kompilacji:
+Building:
 
 $bison -d parser.y
 
